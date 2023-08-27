@@ -14,7 +14,9 @@ Sample Transaction Data:
 
 ## Workflow
 
-![azureStream](https://github.com/shivam3310/Azure_Stream_Analytics/assets/54907699/031bf50b-e684-4832-ab1e-8736a6ed64f0)
+
+![azureStream](https://github.com/shivam3310/Real-time-fraud-detection-system-Azure-Cloud/assets/54907699/f6535515-b202-4c2f-93e0-a473b4cfe853)
+
 
 
 ### 1. Setting up Azure Event Hub
